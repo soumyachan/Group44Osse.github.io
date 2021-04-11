@@ -1,5 +1,8 @@
-# Group44Osse.github.io
-Osse Assignment 4
+## Osse Assignment 4 - Group 44
 
-# Fork repository by Shwetanana
+### Members :
+1. Shriya Natesan - 2020MT93168
+2. Soumya Chandra 
+3. Shwetanana Shankar - 2020MT93143
+
 
