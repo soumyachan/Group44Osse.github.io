@@ -2,6 +2,7 @@
 
 ### Members :
 1. Shriya Natesan - 2020MT93168
-2. Soumya Chandra
-3. Shwetanana Shankar
+2. Soumya Chandra 
+3. Shwetanana Shankar - 2020MT93143
+
 
