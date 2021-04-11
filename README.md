@@ -6,3 +6,6 @@
 3. Shwetanana Shankar - 2020MT93143
 
 
+### This is the repository that contains our code for the assignment 4.
+### The index.html page will be used for the github pages.
+
