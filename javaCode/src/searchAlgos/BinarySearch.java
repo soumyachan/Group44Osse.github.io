@@ -23,6 +23,7 @@ public class BinarySearch{
 			System.out.println("Element is not found!");
 		else
 			System.out.println("Element is found at index: "+result);
+	}
 	
 }
 
