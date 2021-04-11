@@ -47,7 +47,7 @@ if (beg<end)
 int mid = (beg+end)/2;
 sort(arr, beg, mid);
 sort(arr , mid+1, end);
-
+merge(arr, beg, mid, end);
 }
 }
 public static void main(String args[])
