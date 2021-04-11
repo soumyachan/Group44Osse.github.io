@@ -1,4 +1,5 @@
 //File for linear search
+
 package searchAlgos;
 public class LinearSearch{    
 public static int linearSearch(int[] arr, int key){    
