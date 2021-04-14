@@ -1,6 +1,6 @@
 // Java program to implement interpolation
 // search with recursion
-import java.util.*;
+package sortAlgos;
  
 class GFG {
  
